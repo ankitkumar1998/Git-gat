@@ -13,7 +13,6 @@ public class App
     	int z=i+j;
     	System.out.println(z);
         System.out.println( "Hello Ankit" );
-        System.out.println( "Hello World!" );
 
     }
 }

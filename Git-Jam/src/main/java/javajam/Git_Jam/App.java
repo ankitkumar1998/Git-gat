@@ -10,9 +10,11 @@ public class App
     {
     	int i=10;
     	int j=20;
-    	int z=i+j;
+        int k=30;
+    	int z=i+j+k;
     	System.out.println(z);
-        System.out.println( "Hello Ankit" );
+        System.out.println( "Hello this is Ankit did changes" );
 
     }
+    
 }
